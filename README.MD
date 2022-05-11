@@ -6,5 +6,5 @@
 
 
 ### Picture Credits
-- Thank you to user:harshahars from Pixabay for the hacker/binary code image. 
+- The pictures used were downloaded from [istock](https://www.istockphoto.com/en) and [pixabay](https://pixabay.com/)
 
