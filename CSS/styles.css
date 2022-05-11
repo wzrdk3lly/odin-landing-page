@@ -1,0 +1,19 @@
+
+body {
+    /* Add flex to the body in order to section up the content */
+    display: flex;
+    flex-direction: column;
+    /* Make the whole page color a light black */
+    background-color: rgba(0, 0, 0, 0.801);
+    align-items: center;
+    
+}
+
+.Header-Section{
+    background-color: rgba(2, 50, 90, 0.627);
+    flex: 1;
+    display: flex;
+}
+
+
+
