@@ -10,8 +10,7 @@ body {
 }
 
 .Header-Section{
-    background-color: rgba(2, 50, 90, 0.627);
-    flex: 1;
+    background-color: rgba(0, 39, 52, 0.935);
     display: flex;
 }
 
