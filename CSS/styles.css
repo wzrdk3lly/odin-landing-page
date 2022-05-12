@@ -6,23 +6,58 @@ body {
     /* Make the whole page color a light black */
     background-color: rgba(0, 0, 0, 0.801);
     align-items: center;
-    
+    /* min-height: 100vh;
+    flex-wrap: wrap; */
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-around;  
+
+}
+a:visited, a {
+    text-decoration: none;
+    color: white;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+
+.header-signup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hacker{
+    width: 350px;
+    height: auto;
 }
 
 .Header-Section{
     background-color: rgba(0, 39, 52, 0.935);
     display: flex;
     color: white;
+    flex-direction: column;
+    /* min-height: 50%; */
+
+    
 }
 
 .Picture-Section{
     background-color: white;
     display: flex;
+    /* min-height: 50%; */
 }
 
 .Quote-Section{
-    background-color: antiquewhite;
+    background-color: rgba(251, 251, 251, 0.906);
     display: flex;
+    /* min-height: 50%; */
 }
 
 .Footer-Section{
