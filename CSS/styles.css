@@ -91,6 +91,15 @@ ul{
     padding-bottom: 70px;
 }
 
+.Footer-Section{
+    display: flex;
+    background-color:  rgba(0, 39, 52, 0.935);
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
 .stages-pics{
     width: 150px;
     height: 100px;
