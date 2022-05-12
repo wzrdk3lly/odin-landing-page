@@ -13,6 +13,12 @@ body {
     align-items: center;
     /* min-height: 100vh;
     flex-wrap: wrap; */
+    font-family: sans-serif;
+    
+}
+
+.container{
+    width: 1060px;
 }
 
 
@@ -69,9 +75,6 @@ ul{
     color: white;
     flex-direction: column;
     justify-content: center;
-    
-
-    
 }
 
 .Picture-Section{
@@ -80,8 +83,8 @@ ul{
     /* min-height: 50%; */
     flex-direction: column;
     align-items: center;
-    padding-top: 20px;
-    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 70px;
 }
 
 .stages-pics{
@@ -114,10 +117,24 @@ ul{
 .Quote-Section{
     background-color: rgba(251, 251, 251, 0.906);
     display: flex;
-    /* min-height: 50%; */
+    justify-content: center;
+}
+.quote{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 40px;
+    font-style: oblique;
+    color: gray;
+    font-size: 24px;
+    gap:20px;
+}
+.credits{
+    align-self: flex-end;
 }
 
-.Footer-Section{
+
+.Signup-Section-Bottom{
     background-color: white;
     display: flex;
 }
