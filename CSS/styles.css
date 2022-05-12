@@ -1,6 +1,6 @@
 
-/* TODO: Figure out how to make the 4 sections even */
-/* TODO: Style the center, quote and footer sections */
+/* TODO: style the leftsignup and rightsignup sections to be the same size */
+/* TODO: Style the quote and footer sections */
 /* TODO: Add an additional footer section for copyright*/
 
 
@@ -55,12 +55,11 @@ ul{
 }
 
 .left-side{
-    width: 300px;
-  
+    width: 325px;
 }
 
 .hacker{
-    width: 350px;
+    width: 325px;
     height: auto;
 }
 
